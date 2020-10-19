@@ -1,0 +1,39 @@
+.login {
+  height: 100vh;
+  display: flex;
+}
+
+.login--button {
+  background-color: #FFF;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.login img {
+  flex-grow: 2;
+  width: 200px;
+  padding: 0 4%;
+}
+
+.login--button button {
+  color: #FFFFFF;
+  font-size: 17px;
+  width: 350px;
+  height: 50px;
+  padding: 10px 15px;
+  border: none;
+  background-color: #4ADF83;
+  border-bottom: 3px solid #309857;
+  opacity: 0.8;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all ease 0.2s;
+}
+
+.login--button button:hover {
+  opacity: 1;
+}
