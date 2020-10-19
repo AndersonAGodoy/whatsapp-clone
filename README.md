@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_Netflix.png" width="450" />
+  <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" width="450" />
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@ Projeto criado para fins educativos, realizado durante uma live do canal do [BON
 
 - [React](https://pt-br.reactjs.org/)
 - [Firebase](https://firebase.google.com/)
+- [emoji-picker-react](https://www.npmjs.com/package/emoji-picker-react)
 
 ## :pushpin: COMO ABRIR O PROJETO
 
