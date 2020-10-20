@@ -6,7 +6,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/AndersonAGodoy/whatsapp-clone?style=flat-square">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AndersonAGodoy/whatsapp-clone?style=flat-square">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square"> 
-  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Anderson Godoy-%237519C1?style=flat-square"><br/>
+  <img alt="Made by Anderson Godoy" src="https://img.shields.io/badge/made%20by-Anderson Godoy-%237519C1?style=flat-square"><br/>
 </p>
 
 ## :bookmark: SOBRE O PROJETO
@@ -25,6 +25,8 @@ Faça o clone do repositório com o comando `git clone https://github.com/Anders
 insira o comando `npm install` para instalar todas as dependências necessárias.
 
 > OBS: é necessário inserir o comando em um terminal e é preciso estar na mesma pasta do projeto, caso contrário não irá funcionar!
+
+> OBS 2: é Preciso ter uma conta no Google para ter acesso ao firebase. Mais informações no site do proprio firebase.
 
 após instalar todas as depedências, insira o comando `npm start` para que o projeto possa ser aberto.
 
